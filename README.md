@@ -12,7 +12,7 @@ Technologies Used:
 2. Pandas - Data cleaning and analysis
 3. NumPy - Numerical calculations
 4. Matplotlib - Charts and dashboard visualization
-5. OpenPyXL - Reading Excel files
+5. CSV - Reading Excel files
 6. VS Code / Jupyter Notebook - Development environment
 7. Microsoft Excel - Dataset format
 
